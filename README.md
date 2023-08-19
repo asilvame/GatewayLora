@@ -9,3 +9,9 @@ O Projeto tem por objetivo converter BoxTV pirata em uma solução livre com lin
 - https://embarcados.com.br/the-things-network-rede-iot/
 - https://embarcados.com.br/gateways-lora-open-source-hardware/
 - https://www.radioenge.com.br/produto/gateway-lorawan/
+- https://www.printables.com/model/78782-heltec-esp32loraoled-case
+- https://www.printables.com/en/model/112135-heltec-esp32loraoled-self-closing-case/files
+- http://www.heltec.cn/project/wifi-lora-32/?lang=en
+- https://robotzero.one/heltec-wifi-lora-32/
+- https://github.com/olikraus/u8g2
+- https://www.thingiverse.com/thing:3544339 *
