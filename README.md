@@ -1,6 +1,6 @@
 # GatewayLora
     
-O Projeto tem por objetivo converter BoxTV pirata em ambiente livre com linux e transforma-la em Gateway Lora integrado a plataforma open source [OnesaitPlatform](https://github.com/onesaitplatform).
+O Projeto tem por objetivo converter BoxTV pirata em solução livre com linux e transforma-la em Gateway Lora integrado a plataforma open source [OnesaitPlatform](https://github.com/onesaitplatform).
     
 # Referencias
 - https://github.com/xg590/SX1276
