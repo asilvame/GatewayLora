@@ -15,3 +15,12 @@ O Projeto tem por objetivo converter BoxTV pirata em uma solução livre com lin
 - https://robotzero.one/heltec-wifi-lora-32/
 - https://github.com/olikraus/u8g2
 - https://www.thingiverse.com/thing:3544339 *
+- https://www.youtube.com/watch?v=CJNq2I_PDHQ
+- https://www.printables.com/model/157125-heltec-wifi-lora-32-v2-ttn-mapper-case
+- https://www.thingiverse.com/thing:4982572
+- https://www.thingiverse.com/thing:4729713
+- https://www.thingiverse.com/thing:5555717
+- https://www.thingiverse.com/thing:5819772
+- https://www.thingiverse.com/thing:5025192
+- https://www.thingiverse.com/thing:5200457
+- https://www.robmiles.com/journal/2018/11/3/heltecserial
